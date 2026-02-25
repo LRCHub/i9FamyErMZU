@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WW",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:20:55.578064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WW III",
+      "artist": "KMFDM",
+      "has_synced": true,
+      "path": "select/01_WW_III_KMFDM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ww 3",
+      "artist": "Paloma Faith",
+      "has_synced": true,
+      "path": "select/02_Ww_3_Paloma_Faith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WW",
+      "artist": "BOY STORY",
+      "has_synced": true,
+      "path": "select/03_WW_BOY_STORY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kochaj mnie a będę Twoją - Wersja bez WW",
+      "artist": "Kült",
+      "has_synced": true,
+      "path": "select/04_Kochaj_mnie_a_będę_Twoją_-_Wersja_bez_WW_Kült.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WW",
+      "artist": "IAM",
+      "has_synced": false,
+      "path": "select/05_WW_IAM.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Once Gone, Always Missing - ww",
+      "artist": "Lisa Miskovsky",
+      "has_synced": true,
+      "path": "select/06_Once_Gone,_Always_Missing_-_ww_Lisa_Miskovsky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WW (Instrumental)",
+      "artist": "BOY STORY",
+      "has_synced": true,
+      "path": "select/07_WW_(Instrumental)_BOY_STORY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Next Is the E - Cool WW Mix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Next_Is_the_E_-_Cool_WW_Mix_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WW (feat. Maureen)",
+      "artist": "Meel B",
+      "has_synced": true,
+      "path": "select/09_WW_(feat._Maureen)_Meel_B.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "#WW (feat. Lunchbox)",
+      "artist": "Dom Corleo",
+      "has_synced": true,
+      "path": "select/10_WW_(feat._Lunchbox)_Dom_Corleo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WW III feat. Yung Wun, Snoop Dogg, Scarface and Jadakiss",
+      "artist": "Ruff Ryders",
+      "has_synced": false,
+      "path": "select/11_WW_III_feat._Yung_Wun,_Snoop_Dogg,_Scarface_and_Jadakiss_Ruff_Ryders.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WW III",
+      "artist": "Ruff Ryders",
+      "has_synced": true,
+      "path": "select/12_WW_III_Ruff_Ryders.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WW",
+      "artist": "Wjsn",
+      "has_synced": true,
+      "path": "select/13_WW_Wjsn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WW",
+      "artist": "우주소녀",
+      "has_synced": true,
+      "path": "select/14_WW_우주소녀.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "WW",
+      "artist": "Wavy",
+      "has_synced": true,
+      "path": "select/15_WW_Wavy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "WW III",
+      "artist": "Ruff Ryders featuring Yung Wun, Snoop Dogg, Scarface and Jadakiss",
+      "has_synced": false,
+      "path": "select/16_WW_III_Ruff_Ryders_featuring_Yung_Wun,_Snoop_Dogg,_Scarface_and_Jadakiss.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WW",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_WW_AVACLUB.txt"
+    }
+  ]
+}
